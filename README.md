@@ -1,5 +1,7 @@
 # Honeycode Export
 
+> Looking to import data into Honeycode? Check out [honeycode-appflow-integration](https://github.com/iann0036/honeycode-appflow-integration).
+
 Periodically export Honeycode table data into S3.
 
 ## Installation
